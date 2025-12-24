@@ -1,2 +1,0 @@
-# generative
-Generative Repository
